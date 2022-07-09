@@ -1,9 +1,12 @@
 %-------------------------------------------------------------------------%
 % ASSIGNMENT 03 - (A)
 %-------------------------------------------------------------------------%
-% Date:
-% Author/s:
-%
+% Date: April, 2022
+% Author/s: Albert Bosch i Pau Tarrés
+% 
+% Code developed during the "Estructures Aeroespacials" course of GRETA 
+% degree at UPC's ESEIAAT. The code implements finite elements to compute 
+% the displacements, shear stresses and moments of a plane's wing.
 
 clear;
 close all;
